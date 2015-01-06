@@ -1,0 +1,12 @@
+# Site settings
+title: pin 'em up
+email: mario.koedding@web.de
+description: > # this means to ignore newlines until "baseurl:"
+  pin 'em up - your personal reminder
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pinemup.sourceforge.net" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  mariok
+
+# Build settings
+markdown: kramdown
